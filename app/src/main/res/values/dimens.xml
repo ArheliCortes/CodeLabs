@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dial View -->
+    <dimen name="dial_view_size_200">200dp</dimen>
+    <dimen name="dial_view_margin_8">8dp</dimen>
+    <dimen name="dial_view_padding_16">16dp</dimen>
+    <dimen name="dial_view_margin_24">24dp</dimen>
+    <dimen name="dial_view_text_size_24">24sp</dimen>
+</resources>
